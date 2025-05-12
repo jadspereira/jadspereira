@@ -35,6 +35,11 @@ Currently, I work as an intern at a concessionaire of the Águas do Brasil group
     alt="Qgis"
     width="80px"
   />
+    <img
+    src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png"
+    alt="SQL"
+    width="80px"
+  />
 </div>
 
 
