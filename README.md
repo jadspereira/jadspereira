@@ -30,6 +30,11 @@ Currently, I work as an intern at a concessionaire of the Águas do Brasil group
     alt="R"
     width="80px"
   />
+  <img
+    src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/rstudio/rstudio-original.svg](https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg)"
+    alt="Qgis"
+    width="80px"
+  />
 </div>
 
 
